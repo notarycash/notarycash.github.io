@@ -7,7 +7,7 @@ body {
 position: fixed; /* or absolute */
  top: 10%;
   left: 50%;
-  display: inline-block;
+  display: block;
 
 }
 
@@ -20,7 +20,5 @@ h2{
  display: inline-block;
 }
 
-.soon {
-  top: 20%;
-  left: 50%;
-}
+
+
