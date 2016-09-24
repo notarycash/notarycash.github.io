@@ -1,12 +1,22 @@
 
 body {
-  background-color: #fff;
+  background-image: url(images/background.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+padding-top: 60px;
+padding-bottom: 0px;
 }
+
 
 #logo { 
 position: fixed; /* or absolute */
- top: 10%;
-  left: 50%;
+ top: 30%;
+  left: 40%;
   display: block;
 
 }
